@@ -18,7 +18,7 @@ Run each of the command and see the console for output.
 
 - NodeJS
 - Node Packages
-- Twitter
-- Node-Spotify-API
-- Request
-- DotEnv
+  - Twitter
+  - Node-Spotify-API
+  - Request
+  - DotEnv
